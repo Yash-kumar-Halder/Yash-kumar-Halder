@@ -78,9 +78,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-contribution-grid-snake.svg" />
-</p>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
