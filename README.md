@@ -8,15 +8,9 @@
 
 ---
 
-<br />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" width="90%" />
 </div>
-
-<br />
-<br />
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="90%" />
@@ -28,79 +22,78 @@
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div> -->
 
-<br />
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="94%" />
 </div>
 
-<br />
-<br />
-
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit" width="90%" />
+  <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff" width="90%" />
 </div>
-
-<br />
-<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF" width="90%" />
 </p>
 
-<br />
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="240px" border-radius="25px" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="80px" border-radius="25px" alt="Profile Views" />
 </p>
 
-<br />
+<!--Language Heading-->
+<img src="https://img.shields.io/badge/LANGUAGES-00ffff?style=for-the-badge&labelColor=000000&logo=codeforces&logoColor=00ffff" />
 
-## 🚀 **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=00ffff&" width=160px"" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=00ffff&" width="140px" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00ffff&" width="210px" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=00ffff&" width="210px" alt="TypeScript" />
+
+<p align="start">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=00ffff&" width=65px"" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=00ffff&" width="55px" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00ffff&" width="80px" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=00ffff&" width="80px" alt="TypeScript" />
 </p>
 
-## ⚡ **Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&" width="140px"alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00ffff&" width="160px"alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=00ffff&" width="150px"alt="Redux" />
-  <img src="https://img.shields.io/badge/Material_UI-000000?style=flat&logo=material-ui&logoColor=00ffff&" width="170px" alt="Material UI" />
+<!--Frontend Heading-->
+<img src="https://img.shields.io/badge/FRONTEND-00ffff?style=for-the-badge&labelColor=000000&logo=framer&logoColor=00ffff" />
+
+
+<p align="start">
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&" width="60px"alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00ffff&" width="70px"alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=00ffff&" width="70px"alt="Redux" />
+  <img src="https://img.shields.io/badge/Material_UI-000000?style=flat&logo=material-ui&logoColor=00ffff&" width="80px" alt="Material UI" />
 </p>
 
-## 🛠️ **Backend**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=00ffff&" width="150px" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=00ffff&" width="150px" alt="Express" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=graphql&logoColor=00ffff&" width=160px" alt="GraphQL" />
+<!--Backend Heading-->
+<img src="https://img.shields.io/badge/BACKEND-00ffff?style=for-the-badge&labelColor=000000&logo=cloudflare&logoColor=00ffff" />
+
+
+<p align="start">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=00ffff&" width="65px" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=00ffff&" width="65px" alt="Express" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=graphql&logoColor=00ffff&" width=75px" alt="GraphQL" />
 </p>
 
-## 🗄️ **Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=00ffff&" width="180px" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00ffff&width=100" width="150px" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=00ffff" width="200px"  alt="PostgreSQL" />
+<!-- Database Heading -->
+<img src="https://img.shields.io/badge/DATABASE-00ffff?style=for-the-badge&labelColor=000000&logo=databricks&logoColor=00ffff" />
+
+<p align="start">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=00ffff&" width="80px" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00ffff" width="65px" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=00ffff" width="90px"  alt="PostgreSQL" />
 </p>
 
-## 🛠️ **Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00ffff" width="100px" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00ffff&" width="150px" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=00ffff" width="130px" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00ffff" border="1px solid cyan" width="150px" alt="Docker" />
+<!--Tools Hrading-->
+<img src="https://img.shields.io/badge/TOOLS-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
+
+<p align="srart">
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00ffff" width="50px" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00ffff&" width="75px" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=00ffff" width="70px" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00ffff" border="1px solid cyan" width="75px" alt="Docker" />
 </p>
 
+<!--About Heading-->
+<img src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=000000&logo=raycast&logoColor=00ffff" />
 
-<br />
-<br />
 
-## :rocket: **About Me**
 
 - 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
 - 🔍 Learning **MERN Stack**, **DSA**, and **Advanced Backend** concepts.
@@ -116,13 +109,11 @@
 
 💡 I’m constantly exploring new technologies and pushing the boundaries of web development.
 
-<br />
-
 ---
 
-<br />
+<!--Tech Stack-->
+<img src="https://img.shields.io/badge/TECH%20STACK-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
 
-## :toolbox: **Tech Stack**
 
 ### Languages
 <p align="center">
