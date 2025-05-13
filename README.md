@@ -167,26 +167,32 @@
 > *"Code the Future. Create what you wish existed."*  
 > *— Yash Kumar Halder*
 
+<!--Test-->
 <hr />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
+</p>
 
+<p align="center">
+  <b>🚀 Speed, Precision & Clean Code</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/Yash-Kumar-Halder">
-    <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="140px" />
+    <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="40px" />
   </a>
   <a href="https://linkedin.com/in/yash-kumar-halder">
-    <img src="https://img.shields.io/badge/LinkedIn-009999?style=flat&logo=linkedin&logoColor=white" width="125px" />
+    <img src="https://img.shields.io/badge/LinkedIn-009999?style=flat&logo=linkedin&logoColor=white" width="35px" />
   </a>
   <a href="mailto:yashkumarhalder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="130px" />
+    <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="35px" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;" />
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=180" />
 </p>
