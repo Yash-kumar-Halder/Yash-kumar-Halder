@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=260&section=header&text=Welcome%20to%20Yash's%20World&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff50&height=260&section=header&text=Welcome%20to%20Yash's%20World&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -9,11 +9,22 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" width="38%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="45%" />
+  
+  <br />
+
+  <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff" width="47%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF" width="40%" />
 </div>
 
+</div>
+
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="90%" />
+  
 </div>
 
 <!-- Snake Animation -->
@@ -28,22 +39,22 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff" width="90%" />
+  
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF" width="90%" />
+  
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="80px" border-radius="25px" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="120px" border-radius="25px" alt="Profile Views" />
 </p>
 
 <!--Language Heading-->
 <img src="https://img.shields.io/badge/LANGUAGES-00ffff?style=for-the-badge&labelColor=000000&logo=codeforces&logoColor=00ffff" />
 
 
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=00ffff&" width=65px"" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=00ffff&" width="55px" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00ffff&" width="80px" alt="JavaScript" />
@@ -54,7 +65,7 @@
 <img src="https://img.shields.io/badge/FRONTEND-00ffff?style=for-the-badge&labelColor=000000&logo=framer&logoColor=00ffff" />
 
 
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&" width="60px"alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00ffff&" width="70px"alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=00ffff&" width="70px"alt="Redux" />
@@ -65,29 +76,26 @@
 <img src="https://img.shields.io/badge/BACKEND-00ffff?style=for-the-badge&labelColor=000000&logo=cloudflare&logoColor=00ffff" />
 
 
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=00ffff&" width="65px" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=00ffff&" width="65px" alt="Express" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=graphql&logoColor=00ffff&" width=75px" alt="GraphQL" />
 </p>
 
 <!-- Database Heading -->
 <img src="https://img.shields.io/badge/DATABASE-00ffff?style=for-the-badge&labelColor=000000&logo=databricks&logoColor=00ffff" />
 
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=00ffff&" width="80px" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00ffff" width="65px" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=00ffff" width="90px"  alt="PostgreSQL" />
 </p>
 
 <!--Tools Hrading-->
 <img src="https://img.shields.io/badge/TOOLS-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
 
-<p align="srart">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00ffff" width="50px" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00ffff&" width="75px" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=00ffff" width="70px" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=00ffff" border="1px solid cyan" width="75px" alt="Docker" />
 </p>
 
 <!--About Heading-->
@@ -112,6 +120,7 @@
 ---
 
 <!--Tech Stack-->
+<!--
 <img src="https://img.shields.io/badge/TECH%20STACK-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
 
 
@@ -147,19 +156,21 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&borderRadius=15px" />
 </p>
 
----
+--- -->
 
 ## :speech_balloon: Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <p align="center">
+  <a href="https://github.com/Yash-Kumar-Halder">
+    <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="60px" />
   </a>
-  <a href="mailto:your-yashkumarhalder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/yash-kumar-halder">
+    <img src="https://img.shields.io/badge/LinkedIn-009999?style=flat&logo=linkedin&logoColor=white" width="52px" />
   </a>
-  <a href="https://yashkumarportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" />
+  <a href="mailto:yashkumarhalder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="52px" />
   </a>
+</p>
 </p>
 
 ---
@@ -170,15 +181,15 @@
 <!--Test-->
 <hr />
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
-</p>
+</p>-->
 
 <p align="center">
   <b>🚀 Speed, Precision & Clean Code</b>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Yash-Kumar-Halder">
     <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="40px" />
   </a>
@@ -188,7 +199,7 @@
   <a href="mailto:yashkumarhalder@gmail.com">
     <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="35px" />
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;" />
