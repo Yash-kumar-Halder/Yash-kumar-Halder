@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Welcome%20to%20Yash's%20World&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=260&section=header&text=Welcome%20to%20Yash's%20World&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -9,15 +9,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=gotham&border_color=ffffff50" width="40%" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=highcontrast&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="47.5%" />
   
   <br />
 
   <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff" width="47%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30" width="40.5%" />
 </div>
 
 </div>
@@ -26,12 +26,6 @@
 <div align="center">
   
 </div>
-
-<!-- Snake Animation -->
-<!--<div align="center">
-  
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div> -->
 
 <!-- Snake Animation -->
 <div align="center">
@@ -51,126 +45,96 @@
 </p>
 
 <!--Language Heading-->
-<img src="https://img.shields.io/badge/LANGUAGES-00ffff?style=for-the-badge&labelColor=000000&logo=codeforces&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/LANGUAGES-JavaScript%20%7C%20C%20%7C%20C++?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"/>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=00ffff&" width=65px"" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=00ffff&" width="55px" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=00ffff&" width="80px" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=00ffff&" width="80px" alt="TypeScript" />
+<p align="start">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=FF7B0F&" height=20px alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css&logoColor=0071CF" height="55px" alt="hello" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=FF9801&" width="90px" alt="JavaScript" />
+  <span style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
+    <img src="https://img.icons8.com/color/48/c-programming.png" height="20" alt="C Logo" />
+    <img src="https://img.shields.io/badge/C-000000?style=flat&logoColor=00ffff" height="20" alt="C Badge" />
+  </span>
+  <span style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="20" alt="Java Logo" />
+    <img src="https://img.shields.io/badge/Java-000000?style=flat&logoColor=00ffff" height="20" alt="Java Badge" />
+  </span>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FF9801" height="20" alt="Java" />
 </p>
 
 <!--Frontend Heading-->
-<img src="https://img.shields.io/badge/FRONTEND-00ffff?style=for-the-badge&labelColor=000000&logo=framer&logoColor=00ffff" />
+<img src="https://img.shields.io/badge/FRONTEND-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&" width="60px"alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=00ffff&" width="70px"alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=00ffff&" width="70px"alt="Redux" />
-  <img src="https://img.shields.io/badge/Material_UI-000000?style=flat&logo=material-ui&logoColor=00ffff&" width="80px" alt="Material UI" />
+<p align="start">
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&" height="20px"alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff" height="20px"alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=DB291D&" height="20px"alt="Redux" />
+  <img src="https://img.shields.io/badge/Material_UI-000000?style=flat&logo=material-ui&logoColor=00ffff&" height="20px" alt="Material UI" />
 </p>
 
 <!--Backend Heading-->
-<img src="https://img.shields.io/badge/BACKEND-00ffff?style=for-the-badge&labelColor=000000&logo=cloudflare&logoColor=00ffff" />
+<img src="https://img.shields.io/badge/BACKEND-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=00ffff&" width="65px" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=00ffff&" width="65px" alt="Express" />
+<p align="start">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=218A21&" height="20" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff&" height="20" alt="Express" />
 </p>
 
 <!-- Database Heading -->
-<img src="https://img.shields.io/badge/DATABASE-00ffff?style=for-the-badge&labelColor=000000&logo=databricks&logoColor=00ffff" />
+<img src="https://img.shields.io/badge/DATABASE-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=00ffff&" width="80px" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=00ffff" width="65px" alt="MySQL" />
+<p align="start">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=80FF00&" height="20" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=01D5BD" height="20" alt="MySQL" />
 </p>
 
 <!--Tools Hrading-->
-<img src="https://img.shields.io/badge/TOOLS-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
+<img src="https://img.shields.io/badge/TOOLS-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=00ffff" width="50px" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00ffff&" width="75px" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=00ffff" width="70px" alt="VS Code" />
+<p align="start">
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=EF5032" height="20" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff&" height="20" alt="GitHub" />
+  <span style="background-color: 000000; padding: 4px; border-radius: 6px; display: inline-block;">
+    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="20" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS%20Code-000000?style=flat&logoColor=00ffff" height="20" alt="VS Code Badge" />
+</span>
 </p>
 
 <!--About Heading-->
-<img src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=000000&logo=raycast&logoColor=00ffff" />
-
-
+<img src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=7D1516&color=7D1516&logo=codeforces&logoColor=ffffff" />
 
 - 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
 - 🔍 Learning **MERN Stack**, **DSA**, and **Advanced Backend** concepts.
 - 🤖 **AI-powered development tools** & creating **interactive web experiences** are my focus.
 - 🔧 **Currently building**: A **coding social media platform** for programmers.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN_Stack-009999?style=for-the-badge&logo=react&logoColor=ffffff" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/AI_Tools-009999?style=for-the-badge&logo=python&logoColor=ffffff" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/SaaS-009999?style=for-the-badge&logo=appstore&logoColor=ffffff" alt="SaaS" />
-  <img src="https://img.shields.io/badge/Interactive_Experiences-009999?style=for-the-badge&logo=react&logoColor=ffffff" alt="Interactive Experiences" />
+<p align="start">
+  <img src="https://img.shields.io/badge/MERN_Stack-555184?style=for-the-badge&logo=react&logoColor=ffffff" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/AI_Tools-555184?style=for-the-badge&logo=python&logoColor=ffffff" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/SaaS-555184?style=for-the-badge&logo=appstore&logoColor=ffffff" alt="SaaS" />
+  <img src="https://img.shields.io/badge/Interactive_Experiences-555184?style=for-the-badge&logo=react&logoColor=ffffff" alt="Interactive Experiences" />
 </p>
 
 💡 I’m constantly exploring new technologies and pushing the boundaries of web development.
 
 ---
 
-<!--Tech Stack-->
-<!--
-<img src="https://img.shields.io/badge/TECH%20STACK-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
-
-
-### Languages
+<h2>
+  <img src="https://img.icons8.com/ios-filled/30/DCB3AF/conference-call.png" style="vertical-align: middle;" alt="Connect Icon" height=20px />
+  <span color=DCB3AF > Connect with Me </span>
+</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&borderRadius=15px" />
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/EJS-101010?style=flat&logo=javascript&logoColor=yellow&borderRadius=15px" />
-</p>
-
-### Backend & DB
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&borderRadius=15px" />
-</p>
-
-### Tools & Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&borderRadius=15px" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&borderRadius=15px" />
-</p>
-
---- -->
-
-## :speech_balloon: Connect with Me
-<p align="center">
-  <p align="center">
-  <a href="https://github.com/Yash-Kumar-Halder">
-    <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="60px" />
+  <a href="https://github.com/Yash-Kumar-Halder" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
   </a>
-  <a href="https://linkedin.com/in/yash-kumar-halder">
-    <img src="https://img.shields.io/badge/LinkedIn-009999?style=flat&logo=linkedin&logoColor=white" width="52px" />
+  <a href="https://linkedin.com/in/yash-kumar-halder" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
   </a>
-  <a href="mailto:yashkumarhalder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="52px" />
+  <a href="mailto:yashkumarhalder@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
   </a>
-</p>
 </p>
 
 ---
@@ -181,29 +145,13 @@
 <!--Test-->
 <hr />
 
-<!--<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
-</p>-->
-
 <p align="center">
   <b>🚀 Speed, Precision & Clean Code</b>
 </p>
-
-<!--<p align="center">
-  <a href="https://github.com/Yash-Kumar-Halder">
-    <img src="https://img.shields.io/badge/GitHub-009999?style=flat&logo=github&logoColor=white" width="40px" />
-  </a>
-  <a href="https://linkedin.com/in/yash-kumar-halder">
-    <img src="https://img.shields.io/badge/LinkedIn-009999?style=flat&logo=linkedin&logoColor=white" width="35px" />
-  </a>
-  <a href="mailto:yashkumarhalder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-009999?style=flat&logo=gmail&logoColor=white" width="35px" />
-  </a>
-</p>-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=180" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&section=footer&height=180" />
 </p>
