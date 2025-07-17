@@ -126,10 +126,7 @@
   <span color=DCB3AF > Connect with Me </span>
 </h2>
 <p align="center">
-  <a href="https://github.com/Yash-Kumar-Halder" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
-  </a>
-  <a href="https://linkedin.com/in/yash-kumar-halder" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/yash-kumar-halder-b449ba2ab/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
   </a>
   <a href="mailto:yashkumarhalder@gmail.com" target="_blank" style="text-decoration: none;">
@@ -142,7 +139,6 @@
 > *"Code the Future. Create what you wish existed."*  
 > *— Yash Kumar Halder*
 
-<!--Test-->
 <hr />
 
 <p align="center">
