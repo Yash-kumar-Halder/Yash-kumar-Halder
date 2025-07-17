@@ -129,9 +129,14 @@
   <a href="https://www.linkedin.com/in/yash-kumar-halder-b449ba2ab/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
   </a>
-  <a href="mailto:yashkumarhalder@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
-  </a>
+  <a href="mailto:yashkumarhalder@gmail.com" target="_blank" style="text-decoration: none;">
+  <img
+    src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"
+    alt="Email"
+    height="24"
+    style="background-color: #000000; border-radius: 6px; padding: 4px;"
+  />
+</a>
 </p>
 
 ---
