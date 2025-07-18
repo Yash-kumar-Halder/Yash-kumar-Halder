@@ -44,11 +44,12 @@
   <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="120px" border-radius="25px" alt="Profile Views" />
 </p>
 
+
 <!--Language Heading-->
   <img src="https://img.shields.io/badge/LANGUAGES-JavaScript%20%7C%20C%20%7C%20C++?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"/>
 
 <p align="start">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=FF7B0F&" height=20px alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E54D26&" height=20px alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css&logoColor=0071CF" height="55px" alt="hello" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=FF9801&" width="90px" alt="JavaScript" />
   <span style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
@@ -103,7 +104,11 @@
 </p>
 
 <!--About Heading-->
-<img src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=7D1516&color=7D1516&logo=codeforces&logoColor=ffffff" />
+<img 
+  src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=EA9957&color=EA9957&logo=codeforces&logoColor=ffffff" 
+  width="120" 
+  alt="About Me" 
+/>
 
 - 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
 - 🔍 Learning **MERN Stack**, **DSA**, and **Advanced Backend** concepts.
@@ -111,10 +116,10 @@
 - 🔧 **Currently building**: A **coding social media platform** for programmers.
 
 <p align="start">
-  <img src="https://img.shields.io/badge/MERN_Stack-555184?style=for-the-badge&logo=react&logoColor=ffffff" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/AI_Tools-555184?style=for-the-badge&logo=python&logoColor=ffffff" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/SaaS-555184?style=for-the-badge&logo=appstore&logoColor=ffffff" alt="SaaS" />
-  <img src="https://img.shields.io/badge/Interactive_Experiences-555184?style=for-the-badge&logo=react&logoColor=ffffff" alt="Interactive Experiences" />
+  <img src="https://img.shields.io/badge/MERN_Stack-75574F?style=for-the-badge&logo=react&logoColor=ffffff" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/AI_Tools-75574F?style=for-the-badge&logo=python&logoColor=ffffff" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/SaaS-75574F?style=for-the-badge&logo=appstore&logoColor=ffffff" alt="SaaS" />
+  <img src="https://img.shields.io/badge/Interactive_Experiences-75574F?style=for-the-badge&logo=react&logoColor=ffffff" alt="Interactive Experiences" />
 </p>
 
 💡 I’m constantly exploring new technologies and pushing the boundaries of web development.
@@ -126,12 +131,15 @@
   <span color=DCB3AF > Connect with Me </span>
 </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-kumar-halder-b449ba2ab/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" height="24" style="background-color: 000000; border-radius: 6px; padding: 4px;" />
-  </a>
+  <img 
+  src="https://img.icons8.com/ios-filled/50/2D5FFE/linkedin.png" 
+  alt="LinkedIn" 
+  height="24" 
+  style="background-color: #4F48EC; border-radius: 6px; padding: 4px;" 
+/>
   <a href="mailto:yashkumarhalder@gmail.com" target="_blank" style="text-decoration: none;">
   <img
-    src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"
+    src="https://img.icons8.com/ios-filled/50/EA4235/gmail-new.png"
     alt="Email"
     height="24"
     style="background-color: #000000; border-radius: 6px; padding: 4px;"
