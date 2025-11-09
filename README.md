@@ -131,6 +131,7 @@
   <span color=DCB3AF > Connect with Me </span>
 </h2>
 <p align="center">
+  <a href="https://www.linkedin.com/in/yash-kumar-halder/" target="_blank" style="text-decoration: none;">
   <img 
   src="https://img.icons8.com/ios-filled/50/2D5FFE/linkedin.png" 
   alt="LinkedIn" 
