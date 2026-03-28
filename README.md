@@ -111,7 +111,7 @@
 />
 
 - 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
-- 🔍 Learning **MERN Stack**, **DSA**, and **Advanced Backend** concepts.
+- ** Full stack developer (MERN Stack)**,
 - 🤖 **AI-powered development tools** & creating **interactive web experiences** are my focus.
 - 🔧 **Currently building**: A **coding social media platform** for programmers.
 
