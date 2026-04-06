@@ -111,9 +111,7 @@
 />
 
 - 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
-- ** Full stack developer (MERN Stack)**,
-- 🤖 **AI-powered development tools** & creating **interactive web experiences** are my focus.
-- 🔧 **Currently building**: A **coding social media platform** for programmers.
+- ** Full stack developer (MERN Stack)**
 
 <p align="start">
   <img src="https://img.shields.io/badge/MERN_Stack-75574F?style=for-the-badge&logo=react&logoColor=ffffff" alt="MERN Stack" />
