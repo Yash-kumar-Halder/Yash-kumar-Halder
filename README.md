@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30" width="40.5%" /> </div>
   <div align="center"> 
     </div> 
-    <!-- GitHub Contribution Snake --> 
+  <!-- GitHub Contribution Snake --> 
   <p align="center"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-dark.svg" /> 
@@ -20,12 +20,12 @@
       <img src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg" width="94%" alt="GitHub Contribution Snake" />
     </picture> 
   </p> 
-    <div align="center"> </div> 
-    <p align="center"> </p> 
-    <p align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="120px" border-radius="25px" alt="Profile Views" /> 
-    </p> 
-    <!--Language Heading--> 
+  <div align="center"> </div> 
+  <p align="center"> </p> 
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social" width="120px" border-radius="25px" alt="Profile Views" /> 
+  </p> 
+  <!--Language Heading--> 
     <img src="https://img.shields.io/badge/LANGUAGES-JavaScript%20%7C%20C%20%7C%20C++?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"/> 
     <p align="start"> 
       <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E54D26&" height=20px alt="HTML5" /> 
