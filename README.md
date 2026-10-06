@@ -6,7 +6,7 @@
 </p> 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=gotham&border_color=ffffff50" width="40%" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kumar-Halder&theme=highcontrast&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="47.5%" /> 
+  
   <br /> 
 <img src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff" width="47%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30" width="40.5%" /> </div>
