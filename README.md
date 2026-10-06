@@ -38,12 +38,12 @@
       srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-dark.svg"
     />
 
-    <source
+  <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
     />
 
-    <img
+  <img
       src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
       width="94%"
       alt="GitHub Contribution Snake"
@@ -94,7 +94,7 @@
       alt="C Logo"
     />
 
-    <img
+  <img
       src="https://img.shields.io/badge/C-000000?style=flat&logoColor=00ffff"
       height="20"
       alt="C Badge"
@@ -110,7 +110,7 @@
       alt="Java Logo"
     />
 
-    <img
+  <img
       src="https://img.shields.io/badge/Java-000000?style=flat&logoColor=00ffff"
       height="20"
       alt="Java Badge"
@@ -224,7 +224,7 @@
       alt="VS Code"
     />
 
-    <img
+  <img
       src="https://img.shields.io/badge/VS%20Code-000000?style=flat&logoColor=00ffff"
       height="20"
       alt="VS Code Badge"
