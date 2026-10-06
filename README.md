@@ -13,13 +13,13 @@
   <div align="center"> 
     </div> 
     <!-- GitHub Contribution Snake --> 
-    <p align="center"> 
-      <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg" /> 
-        <img src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg" width="94%" alt="GitHub Contribution Snake" />
-      </picture> 
-    </p> 
+  <p align="center"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg" /> 
+      <img src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg" width="94%" alt="GitHub Contribution Snake" />
+    </picture> 
+  </p> 
     <div align="center"> </div> 
     <p align="center"> </p> 
     <p align="center"> 
