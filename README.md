@@ -11,11 +11,10 @@
 </p>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&theme=gotham&border_color=ffffff50"
-    width="40%"
-  />
-
+  <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&showicons=true&theme=gotham&bordercolor=ffffff50" width="50%" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30" width="47%" /> </div>
+  
   <br />
 
   <img
@@ -23,10 +22,6 @@
     width="47%"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30"
-    width="40.5%"
-  />
 </div>
 
 <!-- GitHub Contribution Snake -->
@@ -86,8 +81,7 @@
   />
 
   <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;"
-  >
+    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
     <img
       src="https://img.icons8.com/color/48/c-programming.png"
       height="20"
@@ -102,8 +96,7 @@
   </span>
 
   <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;"
-  >
+    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
     <img
       src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"
       height="20"
@@ -216,8 +209,7 @@
   />
 
   <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;"
-  >
+    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
     <img
       src="https://img.icons8.com/color/48/visual-studio-code-2019.png"
       height="20"
@@ -297,8 +289,7 @@
   <a
     href="mailto:yashkumarhalder@gmail.com"
     target="_blank"
-    style="text-decoration: none;"
-  >
+    style="text-decoration: none;">
     <img
       src="https://img.icons8.com/ios-filled/50/EA4235/gmail-new.png"
       alt="Email"
