@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Yash-Kumar-Halder
           outputs: |
-            dist/github-snake.svg?color_dots=#004444,#007777,#00aaaa,#00cccc,#00ffff&color_snake=#ffffff
+            dist/github-snake.svg?color_dots=#000000,#6a2e00,#9c3f00,#e65100,#ff5100&color_snake=#ffffff
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
