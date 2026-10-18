@@ -64,6 +64,10 @@ Full-stack developer passionate about building useful web applications, explorin
 
 ### 🟠 Contributions
 
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+### 🟠 Contributions
+
 <p align="center">
   <!-- Orange Theme Snake -->
   <img
@@ -74,9 +78,9 @@ Full-stack developer passionate about building useful web applications, explorin
 </p>
 
 <p align="center">
-  <!-- Pac-Man Component (Replace URL with your hosted Pac-Man gif/svg) -->
+  <!-- Pac-Man Component -->
   <img
-    src="URL_TO_YOUR_PACMAN_IMAGE_HERE"
+    src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/pacman-contribution-graph.svg"
     width="100%"
     alt="GitHub contribution Pac-Man"
   />
