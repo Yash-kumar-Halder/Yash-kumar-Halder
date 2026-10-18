@@ -3,15 +3,15 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Yash-Kumar-Halder&fontSize=32&fontColor=FF7A1A&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20cool%20stuff%20with%20code&descSize=12&descColor=C9D1D9&descAlignY=58"
+    src="Cover-Photo.jpg"
     width="100%"
-    alt="Yash Kumar Halder"
+    alt="Yash Kumar Halder Cover Photo"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=900&color=FF7A1A&center=true&vCenter=true&width=400&height=25&lines=Full+Stack+Developer;JavaScript+%26+React+Enthusiast;Building+with+code" alt="Developer tagline" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Yash-Kumar-Halder"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF7A1A" alt="GitHub" /></a>
@@ -64,7 +64,7 @@ Full-stack developer passionate about building useful web applications, explorin
   <!-- Orange Theme Snake -->
   <img
     src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
-    width="100%"
+    width="80%"
     alt="GitHub contribution snake - Orange"
   />
 </p>
