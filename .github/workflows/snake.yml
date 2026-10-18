@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Animations
 
 on:
   schedule:
@@ -25,7 +25,17 @@ jobs:
             dist/github-snake.svg?color_dots=#000000,#6a2e00,#9c3f00,#e65100,#ff5100&color_snake=#ffffff
             dist/github-snake-green.svg?color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_snake=#ffffff
 
-      - name: Push Snakes to output branch
+      - name: Generate Pac-Man Animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Yash-Kumar-Halder
+
+      - name: Move Pac-Man to dist folder
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/ || echo "Pac-Man not generated, skipping move"
+
+      - name: Push Animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
