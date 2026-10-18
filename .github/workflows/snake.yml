@@ -30,10 +30,11 @@ jobs:
         with:
           github_user_name: Yash-Kumar-Halder
 
-      - name: Move Pac-Man to dist folder
+      - name: Move Pac-Man and fix permissions
         run: |
           sudo mkdir -p dist
           sudo mv pacman-contribution-graph.svg dist/ || echo "Pac-Man not generated, skipping move"
+          sudo chmod -R 777 dist
 
       - name: Push Animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
