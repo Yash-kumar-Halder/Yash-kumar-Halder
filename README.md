@@ -68,6 +68,14 @@ Full-stack developer passionate about building useful web applications, explorin
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-green.svg"
+    width="100%"
+    alt="GitHub contribution snake — classic green"
+  />
+</p>
+
 <!-- ==================== TECH STACK ==================== -->
 
 ### 🟠 Tech Stack
