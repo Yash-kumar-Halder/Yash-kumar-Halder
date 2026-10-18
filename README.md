@@ -60,19 +60,25 @@ Full-stack developer passionate about building useful web applications, explorin
 
 ### 🟠 Contributions
 
+<!-- ==================== CONTRIBUTIONS ==================== -->
+
+### 🟠 Contributions
+
 <p align="center">
+  <!-- Orange Theme Snake -->
   <img
     src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
     width="100%"
-    alt="GitHub contribution snake"
+    alt="GitHub contribution snake - Orange"
   />
 </p>
 
 <p align="center">
+  <!-- Pac-Man Component (Replace URL with your hosted Pac-Man gif/svg) -->
   <img
-    src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-green.svg"
+    src="URL_TO_YOUR_PACMAN_IMAGE_HERE"
     width="100%"
-    alt="GitHub contribution snake — classic green"
+    alt="GitHub contribution Pac-Man"
   />
 </p>
 
