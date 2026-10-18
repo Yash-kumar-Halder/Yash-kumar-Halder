@@ -1,321 +1,81 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=250&section=header&text=Welcome&fontSize=30&fontColor=ffffff&animation=twinkling"
-  />
-</p>
+
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Loves+JavaScript+%26+React;MERN+Stack+Developer;Full+Stack+Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=header&text=Yash-Kumar-Halder&fontSize=32&fontColor=FF7A1A&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20cool%20stuff%20with%20code&descSize=12&descColor=C9D1D9&descAlignY=58"
+    width="100%"
+    alt="Yash Kumar Halder"
   />
-</p>
-
-<div align="center">
-  <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&showicons=true&theme=gotham&bordercolor=ffffff50" width="50%" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kumar-Halder&layout=compact&theme=gotham&border_color=ffffff30" width="47%" /> </div>
-  
-  <br />
-
-  <img
-    src="https://leetcard.jacoblin.cool/Yash_kumar321?theme=dark&font=Kanit&color=00ffff"
-    width="47%"
-  />
-
-</div>
-
-<!-- GitHub Contribution Snake -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake-dark.svg"
-    />
-
-  <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
-    />
-
-  <img
-      src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/github-snake.svg"
-      width="94%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&color=0000ff&style=social"
-    width="120px"
-    border-radius="25px"
-    alt="Profile Views"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=900&color=FF7A1A&center=true&vCenter=true&width=400&height=25&lines=Full+Stack+Developer;JavaScript+%26+React+Enthusiast;Building+with+code" alt="Developer tagline" />
 </p>
 
-<!-- Language Heading -->
-
-<img
-  src="https://img.shields.io/badge/LANGUAGES-JavaScript%20%7C%20C%20%7C%20C++?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"
-/>
-
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E54D26&"
-    height="20px"
-    alt="HTML5"
-  />
-
-  <img
-    src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css&logoColor=0071CF"
-    height="55px"
-    alt="CSS"
-  />
-
-  <img
-    src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=FF9801&"
-    width="90px"
-    alt="JavaScript"
-  />
-
-  <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
-    <img
-      src="https://img.icons8.com/color/48/c-programming.png"
-      height="20"
-      alt="C Logo"
-    />
-
-  <img
-      src="https://img.shields.io/badge/C-000000?style=flat&logoColor=00ffff"
-      height="20"
-      alt="C Badge"
-    />
-  </span>
-
-  <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
-    <img
-      src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"
-      height="20"
-      alt="Java Logo"
-    />
-
-  <img
-      src="https://img.shields.io/badge/Java-000000?style=flat&logoColor=00ffff"
-      height="20"
-      alt="Java Badge"
-    />
-  </span>
-
-  <img
-    src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=FF9801"
-    height="20"
-    alt="Python"
-  />
+<p align="center">
+  <a href="https://github.com/Yash-Kumar-Halder"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF7A1A" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yash-kumar-halder/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" /></a>
+  <a href="https://yashkumarhalder.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=FF7A1A" alt="Portfolio" /></a>
 </p>
 
-<!-- Frontend Heading -->
+<!-- ==================== ABOUT ==================== -->
 
-<img
-  src="https://img.shields.io/badge/FRONTEND-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"
-/>
+### 🟠 About Me
 
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=00ffff&"
-    height="20px"
-    alt="React"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff"
-    height="20px"
-    alt="Next.js"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Redux-000000?style=flat&logo=redux&logoColor=DB291D&"
-    height="20px"
-    alt="Redux"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Material_UI-000000?style=flat&logo=material-ui&logoColor=00ffff&"
-    height="20px"
-    alt="Material UI"
-  />
-</p>
-
-<!-- Backend Heading -->
-
-<img
-  src="https://img.shields.io/badge/BACKEND-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"
-/>
-
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=218A21&"
-    height="20"
-    alt="Node.js"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=ffffff&"
-    height="20"
-    alt="Express"
-  />
-</p>
-
-<!-- Database Heading -->
-
-<img
-  src="https://img.shields.io/badge/DATABASE-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"
-/>
-
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=80FF00&"
-    height="20"
-    alt="MongoDB"
-  />
-
-  <img
-    src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=01D5BD"
-    height="20"
-    alt="MySQL"
-  />
-</p>
-
-<!-- Tools Heading -->
-
-<img
-  src="https://img.shields.io/badge/TOOLS-00ffff?style=for-the-badge&labelColor=331666&color=331666&logo=codeforces&logoColor=ffffff"
-/>
-
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=EF5032"
-    height="20"
-    alt="Git"
-  />
-
-  <img
-    src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff&"
-    height="20"
-    alt="GitHub"
-  />
-
-  <span
-    style="background-color: #000000; padding: 4px; border-radius: 6px; display: inline-block;">
-    <img
-      src="https://img.icons8.com/color/48/visual-studio-code-2019.png"
-      height="20"
-      alt="VS Code"
-    />
-
-  <img
-      src="https://img.shields.io/badge/VS%20Code-000000?style=flat&logoColor=00ffff"
-      height="20"
-      alt="VS Code Badge"
-    />
-  </span>
-</p>
-
-<!-- About Heading -->
-
-<img
-  src="https://img.shields.io/badge/ABOUT%20ME-00ffff?style=flat&labelColor=EA9957&color=EA9957&logo=codeforces&logoColor=ffffff"
-  width="120"
-  alt="About Me"
-/>
-
-- 🚀 **Passionate** about building modern **web applications** & **SaaS tools**.
-- **Full Stack Developer (MERN Stack)**
-
-<p align="start">
-  <img
-    src="https://img.shields.io/badge/MERN_Stack-75574F?style=for-the-badge&logo=react&logoColor=ffffff"
-    alt="MERN Stack"
-  />
-
-  <img
-    src="https://img.shields.io/badge/AI_Tools-75574F?style=for-the-badge&logo=python&logoColor=ffffff"
-    alt="AI Tools"
-  />
-
-  <img
-    src="https://img.shields.io/badge/SaaS-75574F?style=for-the-badge&logo=appstore&logoColor=ffffff"
-    alt="SaaS"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Interactive_Experiences-75574F?style=for-the-badge&logo=react&logoColor=ffffff"
-    alt="Interactive Experiences"
-  />
-</p>
-
-💡 I’m constantly exploring new technologies and pushing the boundaries of web development.
+Full-stack developer passionate about building useful web applications, exploring SaaS ideas, and creating interactive projects with JavaScript and raylib.
 
 ---
 
-<h2>
+<!-- ==================== GITHUB OVERVIEW ==================== -->
+
+### 🟠 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Yash-Kumar-Halder?style=flat-square&color=FF7A1A&label=Stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Yash-Kumar-Halder?style=flat-square&color=FF7A1A&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Yash-Kumar-Halder&style=flat-square&color=FF7A1A&label=Views" alt="Profile views" />
+</p>
+  
+<p align="center">
   <img
-    src="https://img.icons8.com/ios-filled/30/DCB3AF/conference-call.png"
-    style="vertical-align: middle;"
-    alt="Connect Icon"
-    height="20px"
+    src="https://streak-stats.demolab.com?user=Yash-Kumar-Halder&hide_border=true&background=0D1117&ring=FF7A1A&fire=FF7A1A&currStreakLabel=FF7A1A&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    width="45%"
+    alt="GitHub contribution streak"
   />
-
-  <span color="DCB3AF">Connect with Me</span>
-</h2>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yash-Kumar-Halder&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=0D1117&title_color=FF7A1A&text_color=C9D1D9&icon_color=FF7A1A&include_all_commits=true"
+    width="40%"
+    alt="GitHub statistics"
+  />
+</p>
 <p align="center">
-  <a
-    href="https://www.linkedin.com/in/yash-kumar-halder/"
-    target="_blank"
-    style="text-decoration: none;"
-  >
-    <img
-      src="https://img.icons8.com/ios-filled/50/2D5FFE/linkedin.png"
-      alt="LinkedIn"
-      height="24"
-      style="background-color: #4F48EC; border-radius: 6px; padding: 4px;"
-    />
-  </a>
+  
 
-  <a
-    href="mailto:yashkumarhalder@gmail.com"
-    target="_blank"
-    style="text-decoration: none;">
-    <img
-      src="https://img.icons8.com/ios-filled/50/EA4235/gmail-new.png"
-      alt="Email"
-      height="24"
-      style="background-color: #000000; border-radius: 6px; padding: 4px;"
-    />
-  </a>
 </p>
 
-> *"Code the Future. Create what you wish existed."*  
-> *— Yash Kumar Halder*
+---
 
-<hr />
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
-<p align="center">
-  <b>🚀 Speed, Precision & Clean Code</b>
-</p>
+### 🟠 Contributions
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;"
+    src="https://raw.githubusercontent.com/Yash-Kumar-Halder/Yash-Kumar-Halder/output/snake.svg"
+    width="100%"
+    alt="GitHub contribution snake"
   />
 </p>
 
+<!-- ==================== TECH STACK ==================== -->
+
+### 🟠 Tech Stack
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&section=footer&height=180"
-  />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,vscode&perline=8&theme=dark" alt="Technologies and tools" />
+</p>
+
+<p align="center">
+  <i>Better code. Bigger dreams. One commit at a time.</i>
 </p>
