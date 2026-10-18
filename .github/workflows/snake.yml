@@ -32,8 +32,8 @@ jobs:
 
       - name: Move Pac-Man to dist folder
         run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/ || echo "Pac-Man not generated, skipping move"
+          sudo mkdir -p dist
+          sudo mv pacman-contribution-graph.svg dist/ || echo "Pac-Man not generated, skipping move"
 
       - name: Push Animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
